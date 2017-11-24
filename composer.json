@@ -1,0 +1,42 @@
+{
+	"name": "ommu/boucle",
+	"description": "Boucle - Bootstrap 4 Responsive Coming Soon for Ommu Platform",
+	"keywords": [
+		"theme",
+		"frontend",
+		"maintenance",
+		"ommu",
+		"platform",
+		"ommu platform"
+	],
+	"homepage": "https://github.com/OmmuThemes/boucle",
+	"type": "ommu-theme",
+	"license": "Apache-2.0",
+	"support": {
+		"issues": "https://github.com/OmmuThemes/boucle/issues",
+		"wiki": "https://github.com/OmmuThemes/boucle/wiki",
+		"source": "https://github.com/OmmuThemes/boucle"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/OmmuThemes/boucle.git"
+	},
+	"authors": [
+		{
+			"name": "Putra Sudaryanto",
+			"email": "putra@sudaryanto.id",
+			"homepage": "https://putra.sudaryanto.id",
+			"role": "Developer"
+		},
+		{
+			"name": "MehmetDemiray",
+			"homepage": "https://themeforest.net/user/mehmetdemiray",
+			"role": "Creator"
+		}
+	],
+	"require": {
+		"php": ">=5.3.2",
+		"oomphinc/composer-installers-extender": "^1.0",
+		"yiisoft/yii": "1.1.*"
+	}
+}
