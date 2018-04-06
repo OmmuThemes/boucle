@@ -6,20 +6,19 @@
 		"frontend",
 		"maintenance",
 		"ommu",
-		"platform",
 		"ommu platform"
 	],
-	"homepage": "https://github.com/OmmuThemes/boucle",
+	"homepage": "https://github.com/ommu/theme-boucle",
 	"type": "ommu-theme",
 	"license": "Apache-2.0",
 	"support": {
-		"issues": "https://github.com/OmmuThemes/boucle/issues",
-		"wiki": "https://github.com/OmmuThemes/boucle/wiki",
-		"source": "https://github.com/OmmuThemes/boucle"
+		"issues": "https://github.com/ommu/theme-boucle/issues",
+		"wiki": "https://github.com/ommu/theme-boucle/wiki",
+		"source": "https://github.com/ommu/theme-boucle"
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/OmmuThemes/boucle.git"
+		"url": "https://github.com/ommu/theme-boucle.git"
 	},
 	"authors": [
 		{
